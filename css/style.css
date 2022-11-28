@@ -406,6 +406,11 @@ hr {
     color: #29e1f1;
 }
 
+/* Efeito scroll reveal */
+.section2, .section5, .section6 {
+    visibility: hidden;
+}
+
 /* Footer Footer */
 
 /* Media Queryes */
